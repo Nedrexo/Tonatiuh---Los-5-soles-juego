@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Aztlan","order":1,"parentId":0,"scrollX":913.7777777777778,"scrollY":975.5555555555555},
+{"id":2,"expanded":false,"name":"Poblado","order":2,"parentId":1,"scrollX":728,"scrollY":789.7777777777778},
+{"id":3,"expanded":false,"name":"Templo frondoso abandonado","order":3,"parentId":1,"scrollX":720.8888888888889,"scrollY":410.22222222222223},
+{"id":4,"expanded":false,"name":"Intro1","order":4,"parentId":0,"scrollX":720.8888888888889,"scrollY":403.1111111111111}
+]
